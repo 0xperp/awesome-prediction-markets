@@ -24,6 +24,8 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
     - On near uses flux protocol for oracles
 - [Polkamarkets](https://www.polkamarkets.com/)
     - on polkadot
+- [Baozi](https://baozi.bet)
+    - Solana, SOL, pari-mutuel (pool-based, no order book), AI agent integration via [MCP server](https://github.com/bolivian-peru/baozi-mcp)
 - [Omen](https://omen.eth.limo/)
     - no longer active but here is an [ipfs link](https://bafybeidaqe523nwbyvhvd74jx57eqge2ezkz2lvfofrkczfs5df5jxq33m.ipfs.dweb.link/#/liquidity)
 
@@ -55,6 +57,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
+- [Baozi MCP Server](https://github.com/bolivian-peru/baozi-mcp) - MCP server with 68 tools for AI agents to interact with Baozi prediction markets on Solana
 
 ## Lists
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)

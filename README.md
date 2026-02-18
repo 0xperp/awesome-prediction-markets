@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [SettleRisk](https://settlerisk.com) - Resolution risk scoring, dispute pricing, and settlement delay API for prediction markets
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

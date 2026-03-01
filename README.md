@@ -43,6 +43,10 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Incentive problems with forecasting](https://www.lesswrong.com/posts/tyNrj2wwHSnb4tiMk/incentive-problems-with-current-forecasting-competitions)
 - [Maximum Truth: Betting on the Elections](https://maximumtruth.substack.com/p/deep-dive-on-predicting-elections)
 
+## Integrity & Trust
+- [MoltGuard](https://moltrust.ch) - Market integrity monitor for prediction markets — Sybil detection, Z-score anomaly detection on volume/price, and tamper-proof integrity reports as W3C Verifiable Credentials anchored on Base
+- [MolTrust](https://github.com/MoltyCel/moltrust-mcp-server) - Agent identity and reputation infrastructure for prediction market participants — DID-based identity, trust scoring, and ERC-8004 on-chain verification
+
 ## Cool Websites
 - [BaseRateTimes](https://www.baseratetimes.com/) - News through the lens of various prediction markets
 - [MetaForecast](https://metaforecast.org/) - Aggregator

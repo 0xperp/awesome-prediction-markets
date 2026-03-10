@@ -48,6 +48,8 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [pm.wiki](https://pm.wiki) - Independent prediction market directory and comparison tool with 350+ project profiles across exchanges, analytics, and ecosystem
+- [Polyguana](https://polyguana.com) - Polymarket analytics platform with trader leaderboards, market statistics, and performance tracking
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

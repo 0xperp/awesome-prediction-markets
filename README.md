@@ -60,3 +60,4 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)
 - [Zeitgeist](https://twitter.com/i/lists/1506265087727837189?s=20)
 - [Insight](https://twitter.com/i/lists/1495912681827704835?s=20)
+- [PolyClawster](https://github.com/al1enjesus/polyclawster) - AI agent skill for Polymarket trading. Non-custodial, whale signal detection (200+ wallets), signal scoring 0-10, public leaderboard. OpenClaw skill + Telegram Mini App.

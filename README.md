@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [Parsec](https://parsecapi.com) - HFT-focused, developer-first prediction market infrastructure for normalized market data, execution, and live streams across major venues. Generous free tier
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

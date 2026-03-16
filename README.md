@@ -19,6 +19,8 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
     - Solana, USDC (but devnet)
 - [Futuur](https://futuur.com/)
 - [Infer](https://www.infer-pub.com/)
+- [Signals Protocol](https://signals.wtf)
+    - Citrea (Bitcoin L2), ctUSD. Range-based — predict exactly where BTC closes, not just up or down
 - [smarkets](https://smarkets.com)
 - [Pulse Markets](https://www.pulsemarkets.org/)
     - On near uses flux protocol for oracles

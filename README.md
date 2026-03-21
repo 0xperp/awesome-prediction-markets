@@ -60,3 +60,5 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)
 - [Zeitgeist](https://twitter.com/i/lists/1506265087727837189?s=20)
 - [Insight](https://twitter.com/i/lists/1495912681827704835?s=20)
+## Tools
+- [SimpleFunctions](https://github.com/spfunctions/simplefunctions-cli) - Autonomous monitoring + context management for prediction market agents. Causal thesis decomposition, Kalshi + Polymarket edge detection, 24/7 heartbeat engine (news/price/orderbook tracking), what-if scenarios. Open-source CLI, MCP server, REST API. [simplefunctions.dev](https://simplefunctions.dev)

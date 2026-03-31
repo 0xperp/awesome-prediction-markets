@@ -46,6 +46,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 ## Cool Websites
 - [BaseRateTimes](https://www.baseratetimes.com/) - News through the lens of various prediction markets
 - [MetaForecast](https://metaforecast.org/) - Aggregator
+- [OddsShift](https://oddsshift.com/) - Cross-platform odds comparison and arbitrage scanner for Polymarket and Kalshi
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
 

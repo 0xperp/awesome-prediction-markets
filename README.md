@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [PredScope](https://predscope.com) - Prediction market analytics and data platform with 600+ live markets, odds comparison, and comprehensive guides
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

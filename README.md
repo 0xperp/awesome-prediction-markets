@@ -53,6 +53,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)
 - [Polymarket Stats](https://github.com/bodino/PolymarketStats)
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
+- [TigerPass](https://github.com/TigerPassNet/tigerpass-skill) - Hardware-secured wallet with Polymarket + Hyperliquid trading for AI agents
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
 

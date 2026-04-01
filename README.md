@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket alerts with 12 signal types and multi-AI analysis (Groq, Claude, Gemini)
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

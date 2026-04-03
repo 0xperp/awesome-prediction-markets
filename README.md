@@ -21,6 +21,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Infer](https://www.infer-pub.com/)
 - [smarkets](https://smarkets.com)
 - [Pulse Markets](https://www.pulsemarkets.org/)
+- [SuiBets](https://suibets.com/) - Decentralized sports betting on Sui blockchain with verified smart contract, formal verification, and on-chain settlement
     - On near uses flux protocol for oracles
 - [Polkamarkets](https://www.polkamarkets.com/)
     - on polkadot

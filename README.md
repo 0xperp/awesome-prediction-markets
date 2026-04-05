@@ -44,6 +44,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Maximum Truth: Betting on the Elections](https://maximumtruth.substack.com/p/deep-dive-on-predicting-elections)
 
 ## Cool Websites
+- [PredScope](https://predscope.com/) - Real-time prediction market odds tracker with analytics, compare tools, and guides
 - [BaseRateTimes](https://www.baseratetimes.com/) - News through the lens of various prediction markets
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)

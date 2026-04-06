@@ -26,6 +26,8 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
     - on polkadot
 - [Omen](https://omen.eth.limo/)
     - no longer active but here is an [ipfs link](https://bafybeidaqe523nwbyvhvd74jx57eqge2ezkz2lvfofrkczfs5df5jxq33m.ipfs.dweb.link/#/liquidity)
+- [FlipCoin](https://flipcoin.fun)
+    - Base, USDC. Hybrid LMSR + CLOB. AI agent API with session keys.
 
 ## Selected Reading
 - [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq)

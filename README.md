@@ -49,6 +49,9 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
 
+## Data & APIs
+- [Adanos Market Sentiment API](https://api.adanos.org/docs/) - Stock market sentiment API that includes Polymarket-derived prediction-market activity alongside Reddit and X/Twitter signals.
+
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)
 - [Polymarket Stats](https://github.com/bodino/PolymarketStats)

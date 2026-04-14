@@ -55,6 +55,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Probability-weighted outcomes for news and markets via MCP protocol. Example: US-China tariffs -- 70% escalation, 30% diplomatic resolution.
 
 ## Lists
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)

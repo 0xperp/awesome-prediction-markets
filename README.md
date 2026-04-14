@@ -46,6 +46,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 ## Cool Websites
 - [BaseRateTimes](https://www.baseratetimes.com/) - News through the lens of various prediction markets
 - [MetaForecast](https://metaforecast.org/) - Aggregator
+- [OddsShift](https://oddsshift.com/) - Cross-platform prediction market comparison with AI analysis explaining why Polymarket and Kalshi disagree. 7,900+ markets, smart money tracking, arbitrage detection.
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
 

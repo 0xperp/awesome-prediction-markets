@@ -27,6 +27,10 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Omen](https://omen.eth.limo/)
     - no longer active but here is an [ipfs link](https://bafybeidaqe523nwbyvhvd74jx57eqge2ezkz2lvfofrkczfs5df5jxq33m.ipfs.dweb.link/#/liquidity)
 
+## Protocol / Infrastructure
+- [Kuest](https://kuest.com)
+    - Create your own Prediction Market on Polylgon, USDC
+
 ## Selected Reading
 - [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq)
 - [Information Markets, Decision Markets, Attention Markets, Action Markets](https://astralcodexten.substack.com/p/information-markets-decision-markets)
@@ -55,6 +59,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
+- [Kuest - create your own Prediction Market](https://github.com/kuestcom/kuest.com)
 
 ## Lists
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)

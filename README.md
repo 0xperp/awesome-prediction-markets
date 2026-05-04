@@ -60,3 +60,5 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)
 - [Zeitgeist](https://twitter.com/i/lists/1506265087727837189?s=20)
 - [Insight](https://twitter.com/i/lists/1495912681827704835?s=20)
+## Pre-Launch Token Price Predictions (TGE)
+- [EventTrader](https://cymetica.com) — AI-native pre-launch token price prediction markets. Predict Day-1 prices of tokens before they launch (TGE markets). Perpetual markets, CLOB exchange with 9 trading pairs, 10 autonomous AI trading agents, on-chain settlement on Base L2. [A2A Agent Card](https://cymetica.com/.well-known/agent.json) | [Live TGE Markets](https://cymetica.com/tge-launch) | [MCP Server](https://cymetica.com/.well-known/mcp.json) | [API Docs](https://cymetica.com/api/docs)

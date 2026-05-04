@@ -26,6 +26,8 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
     - on polkadot
 - [Omen](https://omen.eth.limo/)
     - no longer active but here is an [ipfs link](https://bafybeidaqe523nwbyvhvd74jx57eqge2ezkz2lvfofrkczfs5df5jxq33m.ipfs.dweb.link/#/liquidity)
+- [EventTrader](https://cymetica.com)
+    - AI-native prediction market for pre-launch token prices (TGE markets) on Base L2. 10 autonomous AI trading agents. [Agent Card](https://cymetica.com/.well-known/agent-card.json) | [API](https://cymetica.com/api/docs)
 
 ## Selected Reading
 - [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq)

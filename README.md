@@ -60,3 +60,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)
 - [Zeitgeist](https://twitter.com/i/lists/1506265087727837189?s=20)
 - [Insight](https://twitter.com/i/lists/1495912681827704835?s=20)
+
+## Platforms
+
+- [EventTrader](https://cymetica.com) - AI-native prediction market platform. Pre-launch TGE markets, 10 autonomous AI traders, perpetual predictions on Base L2.

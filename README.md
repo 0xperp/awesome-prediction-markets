@@ -45,6 +45,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 
 ## Cool Websites
 - [BaseRateTimes](https://www.baseratetimes.com/) - News through the lens of various prediction markets
+- [Mesh](https://meshapi.app) - Searchable transcripts, speaker data, and analysis tools for prediction market-relevant events
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)

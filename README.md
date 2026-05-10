@@ -26,6 +26,8 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
     - on polkadot
 - [Omen](https://omen.eth.limo/)
     - no longer active but here is an [ipfs link](https://bafybeidaqe523nwbyvhvd74jx57eqge2ezkz2lvfofrkczfs5df5jxq33m.ipfs.dweb.link/#/liquidity)
+- [WCINU.BET](https://wcinu.bet)                                                                                               
+      - Solana, SOL, World Cup 2026 prediction market, no KYC  
 
 ## Selected Reading
 - [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq)

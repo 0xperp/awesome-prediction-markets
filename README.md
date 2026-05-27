@@ -55,6 +55,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
+- [pytheum-mcp](https://github.com/pytheum/pytheum-mcp) - MCP server bridging AI agents to prediction-market context. Routes news/social/macro events to relevant Kalshi, Polymarket, and Manifold markets via 4 tools over api.pytheum.com (PIT-preserved).
 
 ## Lists
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)

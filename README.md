@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [antflow](https://antflow.live) - Autonomous trading bot for Polymarket with risk guardrails and disciplined exits; results shown on a public live wallet, not a backtest
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

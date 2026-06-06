@@ -48,7 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
-- [Foresea](https://foresea.ink) - AI probability forecasts + model-vs-market edge for any question, with a live resolved track record and an MCP server agents can call
+- [Foresea](https://foresea.ink) - AI forecasts and model-vs-market edge
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

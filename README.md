@@ -50,6 +50,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Good Judgement](https://www.gjopen.com/)
 
 ## Respositories
+- [PMXT | CCXT for prediction markets](https://github.com/pmxt-dev/pmxt)
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)
 - [Polymarket Stats](https://github.com/bodino/PolymarketStats)
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)

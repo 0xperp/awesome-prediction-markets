@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [protodex.io](https://protodex.io) - Free Polymarket screener and data API, 19,300+ markets
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)
@@ -55,6 +56,10 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
+- [polymarket-mcp](https://github.com/LuciferForge/polymarket-mcp) - Live Polymarket data as MCP tools for AI agents (PyPI: polymarket-mcp-pro)
+- [polymarket-api](https://github.com/LuciferForge/polymarket-api) - Free REST API, 10M+ historical price snapshots
+- [polymarket-pnl](https://github.com/LuciferForge/polymarket-pnl) - CLI P&L breakdown for any Polymarket wallet, no API keys
+- [polymarket-historical-data](https://github.com/LuciferForge/polymarket-historical-data) - Open historical dataset, 19M+ price snapshots
 
 ## Lists
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)

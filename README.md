@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [PredictionMarketsPicks](https://predictionmarketspicks.com/kalshi-analysis) - Independent Kalshi & Polymarket analysis: free quant tools (EV, Kelly, probability conversion), a daily Bayesian mispricing scan, and options-vs-market commodity edge signals
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

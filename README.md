@@ -18,6 +18,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Pascal](https://www.pascal.fi/) 
     - Solana, USDC (but devnet)
 - [Futuur](https://futuur.com/)
+- [Dexly](https://dexly.trade/) - Hyperliquid; self-custodial mobile app for prediction markets, perps, spot & tokenized stocks
 - [Infer](https://www.infer-pub.com/)
 - [smarkets](https://smarkets.com)
 - [Pulse Markets](https://www.pulsemarkets.org/)

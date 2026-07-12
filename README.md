@@ -50,6 +50,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Good Judgement](https://www.gjopen.com/)
 
 ## Respositories
+- [Polymarket Weather Command Center](https://github.com/testedmedia/polymarket-weather-command-center) - Open-source dashboard for temperature markets: multi-model forecasts, live ASOS/METAR observations, bucket probabilities across 41 cities
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)
 - [Polymarket Stats](https://github.com/bodino/PolymarketStats)
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)

@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [PolyScore](https://polytrading.app) - Skill-vs-luck ratings for Polymarket wallets
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

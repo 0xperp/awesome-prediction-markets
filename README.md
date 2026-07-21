@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [Cobia Picks](https://cobiapicks.com/) - Tracks smart-money wallets on Polymarket, scores each signal, and grades every pick in public (2,000+ resolved, none deleted)
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

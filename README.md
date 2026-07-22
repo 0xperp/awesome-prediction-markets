@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [Polywise](https://polywise.tyki.app/) - Free game-like course teaching how prediction markets work (prices as probabilities, edge, resolution rules) with a payout calculator and glossary
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

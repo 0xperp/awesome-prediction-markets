@@ -55,6 +55,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
+- [Kalshi Crypto Microstructure Dataset](https://github.com/colelevy08/kalshi-crypto-microstructure) - 38M trade prints + 3M orderbook snapshots from Kalshi's 15M/1H BTC/ETH/SOL/XRP binaries, with a free sample pack and a measured execution-cost field report
 
 ## Lists
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)

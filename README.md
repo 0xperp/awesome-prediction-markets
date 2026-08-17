@@ -44,6 +44,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Maximum Truth: Betting on the Elections](https://maximumtruth.substack.com/p/deep-dive-on-predicting-elections)
 
 ## Cool Websites
+- [EdgeMarket](https://edgemarket.co) — Polymarket and crypto-perp analytics: public Oracle register (confirmed 5-min calls, misses included), operators ranked by measured alpha, funding/OI/liquidations across four venues. Free observer tier.
 - [BaseRateTimes](https://www.baseratetimes.com/) - News through the lens of various prediction markets
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)

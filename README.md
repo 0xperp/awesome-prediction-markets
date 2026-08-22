@@ -53,6 +53,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)
 - [Polymarket Stats](https://github.com/bodino/PolymarketStats)
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
+- [pmkit](https://github.com/Pkaulsjs/pmkit) - Polymarket analysis toolkit: market data clients, arbitrage scanners, stdlib-only WebSocket streaming, paper trading and backtesting in Python
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
 

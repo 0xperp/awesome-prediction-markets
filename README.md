@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [PolymarketScan](https://polymarketscan.org/) - Independent Polymarket explorer (whale prints, wallets, [airdrop checker](https://polymarketscan.org/airdrop), [best traders](https://polymarketscan.org/best-polymarket-traders)). Free, no signup. Not a venue. Not official.
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)
@@ -60,3 +61,4 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)
 - [Zeitgeist](https://twitter.com/i/lists/1506265087727837189?s=20)
 - [Insight](https://twitter.com/i/lists/1495912681827704835?s=20)
+ttps://polymarketscan.org/whale-tracker

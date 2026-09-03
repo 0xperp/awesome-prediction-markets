@@ -47,6 +47,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [BaseRateTimes](https://www.baseratetimes.com/) - News through the lens of various prediction markets
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
+- [Convex Lake](https://convexlake.com) - Unified API for prediction market and crypto derivatives data (Kalshi, Polymarket, Predict.fun, Limitless, Deribit, Binance options), batch and real-time. Free academic-research tier on request.
 - [Good Judgement](https://www.gjopen.com/)
 
 ## Respositories

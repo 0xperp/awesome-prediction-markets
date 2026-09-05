@@ -55,6 +55,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
+- [OpenThomas](https://github.com/PredictionMarketTrader/openthomas) - Autonomous AI agent that trades weather markets on Kalshi and Polymarket using a seven-model NWS forecast consensus, station-specific bias correction, and Kelly-criterion position sizing.
 
 ## Lists
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)

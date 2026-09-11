@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [VoxOdds](https://voxodds.com/) - Live Polymarket/Kalshi odds with all-in executable quotes, EV checks, an audited AI-vs-market track record, and a free MCP server for AI agents
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

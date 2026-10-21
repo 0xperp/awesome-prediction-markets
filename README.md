@@ -48,6 +48,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [MetaForecast](https://metaforecast.org/) - Aggregator
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
+- [OddsFantasy](https://oddsfantasy.com/) - Sports trading terminal for Polymarket, with value-bet and arbitrage scanners across Polymarket, Kalshi and sportsbooks, fees included
 
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)

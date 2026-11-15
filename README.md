@@ -49,6 +49,8 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/)
 - [Good Judgement](https://www.gjopen.com/)
 
+- [Fathom Terminal](https://fathom-terminal.pages.dev/) - Local developer engine for prediction-market books: feed, desk, recorder, and replay. The shipped stub places no orders.
+
 ## Respositories
 - [Polymarket Info](https://github.com/PolyTrader/polymarket-info)
 - [Polymarket Stats](https://github.com/bodino/PolymarketStats)
